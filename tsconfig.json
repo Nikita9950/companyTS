@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+      "target": "es6",
+      "removeComments": true,
+      // "outDir": "js",
+      "sourceMap": true,
+      "outFile": "index.js",
+      "watch": true
+  },
+
+  "files":[
+    "Сompany.ts",
+    "IDepartment.ts",
+    "IEmployee.ts",
+    "IClient.ts",
+    "Department.ts",
+    "Employee.ts",
+    "Client.ts",
+    "HeadOfDepartment.ts",
+    "index.ts"
+  ]
+}
